@@ -2,16 +2,16 @@
 A system designed to manage and update various types of donations for multiple causes. It supports a wide range of donation categories, 
 including food, water, clothes, books, school supplies, toiletries, and monetary contributions. 
 
-##Overview
+## Overview
 The system allows users to add, update, and view donations, along with their associated details such as quantity, 
 unit of measurement, and cause. This tracker helps streamline the process of collecting and managing charitable donations, 
 providing efficient tracking and updating functionalities for both donors and administrators.
 
-##SDG
+## SDG
 The Angat Buhay Management System aligns with SDG 2: Zero Hunger and SDG 4: Quality Education by facilitating the 
 collection and distribution of resources that support both food security and educational access.
 
-##Instructions for running the program
+## Instructions for running the program
 I. Donate
 The system prompts the user to choose a cause whether Climate Action Sustainability, Nutrition and Food Security, or Public Education. 
 Once a cause is selected, the system will then ask which type of donation the user wishes to make. 
