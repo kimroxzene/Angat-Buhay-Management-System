@@ -3,13 +3,10 @@ A system designed to manage and update various types of donations for multiple c
 including food, water, clothes, books, school supplies, toiletries, and monetary contributions. 
 
 ## Overview
-The system allows users to add, update, and view donations, along with their associated details such as quantity, 
-unit of measurement, and cause. This tracker helps streamline the process of collecting and managing charitable donations, 
-providing efficient tracking and updating functionalities for both donors and administrators.
+The Angat Buhay Donation Management System is a system designed to manage and update various types of donations for multiple causes. The system allows users to add, update, and view donations, along with their associated details such as quantity, unit of measurement, and cause. Each donation type is represented by a specific class, ensuring proper management of item-specific details. The project also offers a user-friendly interface for updating donation information, such as cause, quantity, unit, and additional details. This tracker helps streamline the process of collecting and managing charitable donations, providing efficient tracking and updating functionalities for both donors and administrators. Angat Buhay Donation tracker is a system that tracks the donation of the people.
 
 ## SDG
-The Angat Buhay Management System aligns with SDG 2: Zero Hunger and SDG 4: Quality Education by facilitating the 
-collection and distribution of resources that support both food security and educational access.
+The Angat Buhay Management System aligns with SDG 2: Zero Hunger and SDG 4: Quality Education by facilitating the collection and distribution of resources that support both food security and educational access. Through food, water, and toiletries donations, it directly addresses hunger and nutrition needs, crucial aspects of SDG 2. Book and school supplies donations also promote access to education, helping ensure that underprivileged children and communities can continue their learning, which contributes to SDG 4. By supporting these causes, it fosters both nutritional security and educational opportunities for those in need.
 
 ## Instructions for running the program
 I. Donate
