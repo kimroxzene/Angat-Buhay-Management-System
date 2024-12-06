@@ -2,13 +2,25 @@
 A system designed to manage and update various types of donations for multiple causes. It supports a wide range of donation categories, 
 including food, water, clothes, books, school supplies, toiletries, and monetary contributions. 
 
-## Overview
+## 📝 Overview
 The Angat Buhay Donation Management System is a system designed to manage and update various types of donations for multiple causes. The system allows users to add, update, and view donations, along with their associated details such as quantity, unit of measurement, and cause. Each donation type is represented by a specific class, ensuring proper management of item-specific details. The project also offers a user-friendly interface for updating donation information, such as cause, quantity, unit, and additional details. This tracker helps streamline the process of collecting and managing charitable donations, providing efficient tracking and updating functionalities for both donors and administrators. Angat Buhay Donation tracker is a system that tracks the donation of the people.
 
-## SDG
-The Angat Buhay Management System aligns with SDG 2: Zero Hunger and SDG 4: Quality Education by facilitating the collection and distribution of resources that support both food security and educational access. Through food, water, and toiletries donations, it directly addresses hunger and nutrition needs, crucial aspects of SDG 2. Book and school supplies donations also promote access to education, helping ensure that underprivileged children and communities can continue their learning, which contributes to SDG 4. By supporting these causes, it fosters both nutritional security and educational opportunities for those in need.
+## 🌍 **SDG**
+The Angat Buhay Management System supports the following Sustainable Development Goals (SDGs):  
 
-## Instructions for running the program
+- **🎯 SDG 2: Zero Hunger**  
+  - Facilitates the collection and distribution of food, water, and toiletries donations.  
+  - Directly addresses hunger and nutrition needs.  
+
+- **🎯 SDG 4: Quality Education**  
+  - Promotes access to education by collecting books and school supplies.  
+  - Supports underprivileged children and communities to continue their learning.  
+
+By addressing these critical goals, the system:  
+- Fosters **nutritional security** for those in need.  
+- Enhances **educational opportunities** for underprivileged communities.
+  
+## 🗂️ Instructions for running the program
 I. Donate
 The system prompts the user to choose a cause whether Climate Action Sustainability, Nutrition and Food Security, or Public Education. 
 Once a cause is selected, the system will then ask which type of donation the user wishes to make. 
